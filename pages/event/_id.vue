@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: "_id",
+  name: "EventUser",
   head() {
     return {
       title: `#${this.id} event  title + `,
