@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+https://scale-nuxt-elmi-elmi.netlify.app/
 # demo-scale-vue-nuxt
 vuescale-nuxt-elmi-elmi.netlify.app
 =======
